@@ -31,5 +31,3 @@
      (highlight ((t (:background "#2C2C2C"))))
      (italic ((t (:italic t))))
      (underline ((t (:underline t)))))))
-
-(setq frame-background-mode 'dark)
